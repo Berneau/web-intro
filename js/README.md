@@ -1,11 +1,11 @@
 ## JS Aufgaben
 
-### 01
+### 01 Script einbinden
 
-### 02
+### 02 Console log
 
-### 03
+### 03 Variablen
 
-### 04
+### 04 HTML/CSS manipulieren
 
-### 05
+### 05 Final
