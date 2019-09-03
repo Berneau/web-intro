@@ -1,0 +1,1 @@
+console.log('Ergebnis lautet:', 24 / 8);

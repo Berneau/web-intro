@@ -13,7 +13,7 @@
 - Minimal HTML Structure
 - Meta Information
 - Most Important Tags
-- Dev Tools
+- Chrome Dev Tools
 
 ---
 
@@ -29,18 +29,23 @@
 ---
 
 ## JavaScript
-- Include Script (position matters)
+- JS Anwendungsbereiche
+- Include Script
+- Console Log
 - Variables
 - Manipulating DOM (HTML + CSS)
+- Position Matters
 - Functions
-- Form Action
-- Hello World
 
 ---
 
 ## Nice-To-Haves
+- Html Static Site Generators (Jekyll, Gatsby, ...)
 - CSS Animations
 - CSS Media Queries
-- SASS
-
-
+- CSS Frameworks
+- CSS Preprocessors (Sass)
+- Github vertiefend
+- JS Anwendungsbereiche vertiefend
+- JS Frameworks
+- Real World Examples
