@@ -16,6 +16,13 @@ darfst du aber nur in der CSS Datei und in den "style"-Tags in der HTML Datei
 Änderungen vornehmen!
 
 ### 04 - Properties
-Style die Html Tags nach Vorgabe. Anweisungen findest du direkt in der Html Datei über dem jeweiligen Tag.
+Style die Html Tags nach Vorgabe. Anweisungen findest du direkt in der Html
+Datei über dem jeweiligen Tag.
 
-### 05 - Final
+### 05 - Flexbox
+**Optional** Flexbox wird zum positionieren von Html-Elementen verwendet.
+Falls du Lust hast kannst du dich einlesen und das Beispiel machen :)
+Aufgabe: Baue das Menu wie im folgenden Screenshot mit Flexbox nach.
+(Tipp: schau dir das Property `flex-grow` für die Klassen `.spacer` an).
+
+![Screenshot Nav](../images/screenshot01.png)

@@ -1,0 +1,42 @@
+* { margin: 0; padding: 0; }
+
+body {
+  min-height: 100vh;
+}
+
+nav {
+  border-bottom: 1px solid lightgrey;
+  color: #e51a15;
+  display: flex;
+  height: 82px;
+  width: 100%;
+}
+
+.menu-item {
+  justify-content: center;
+  align-items: center;
+  min-width: 100px;
+  display: flex;
+  height: 100%;
+}
+
+.spacer {
+  flex-grow: 1;
+}
+
+span {
+  text-transform: uppercase;
+  font-size: 18px;
+}
+
+svg {
+  cursor: pointer;
+  fill: #e51a15;
+  height: 24px;
+  width: 24px;
+}
+
+img {
+  height: 64px;
+  width: 64px;
+}

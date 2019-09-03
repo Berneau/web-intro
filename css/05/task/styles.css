@@ -1,0 +1,27 @@
+* { margin: 0; padding: 0; }
+
+body {
+  min-height: 100vh;
+}
+
+nav {
+  border-bottom: 1px solid lightgrey;
+  height: 82px;
+  width: 100%;
+}
+
+.menu-item {
+  min-width: 100px;
+  height: 100%;
+}
+
+svg {
+  cursor: pointer;
+  height: 24px;
+  width: 24px;
+}
+
+img {
+  height: 64px;
+  width: 64px;
+}

@@ -40,5 +40,7 @@
 
 ## Nice-To-Haves
 - CSS Animations
+- CSS Media Queries
+- SASS
 
 
