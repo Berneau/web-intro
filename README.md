@@ -6,16 +6,12 @@
 - Human Body
 - Editor (VS Code | Sublime | Atom)
 
----
-
 ## HTML
 - Hypertext Markup Language
 - Minimal HTML Structure
 - Meta Information
 - Most Important Tags
 - Chrome Dev Tools
-
----
 
 ## CSS
 ![Waterfall](images/waterfall.jpg)
@@ -26,8 +22,6 @@
 - Demonstrate Cascading
 - CSS Transitions
 
----
-
 ## JavaScript
 - JS Anwendungsbereiche
 - Include Script
@@ -36,8 +30,6 @@
 - Manipulating DOM (HTML + CSS)
 - Position Matters
 - Functions
-
----
 
 ## Nice-To-Haves
 - Html Static Site Generators (Jekyll, Gatsby, ...)
