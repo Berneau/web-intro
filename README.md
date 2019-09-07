@@ -20,7 +20,6 @@
 - How to include Styles? 🤔
 - [Selectors](https://www.w3schools.com/cssref/css_selectors.asp)
 - Demonstrate Cascading
-- CSS Transitions
 
 ## JavaScript
 - JS Anwendungsbereiche
@@ -33,6 +32,7 @@
 
 ## Nice-To-Haves
 - Html Static Site Generators (Jekyll, Gatsby, ...)
+- CSS Transitions
 - CSS Animations
 - CSS Media Queries
 - CSS Frameworks
