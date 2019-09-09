@@ -1,9 +1,9 @@
 ## HTML Aufgaben
 
-### 01 - HTML Aufbau
+### 01 - HTML Aufbau ✅
 Wie ist eine HTML-Datei aufgebaut? Aufgabe ist es, die Basis-Struktur der HTML-tags zu schreiben. (DOCTYPE, html, head, title, body)
 
-### 02 - Tags Part I
+### 02 - Tags Part I ✅
 Baue eine Website die mindestens folgende Tags enthält:
 - h1, h3
 - p
