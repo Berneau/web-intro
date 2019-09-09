@@ -6,6 +6,23 @@
 - Human Body
 - Editor (VS Code | Sublime | Atom)
 
+## Aufgaben
+- [x] Html 1
+- [x] Html 2
+- [ ] Html 3
+- [ ] Html 4
+- [ ] Html 5
+- [ ] CSS 1
+- [ ] CSS 2
+- [ ] CSS 3
+- [ ] CSS 4
+- [ ] CSS 5
+- [ ] JS 1
+- [ ] JS 2
+- [ ] JS 3
+- [ ] JS 4
+- [ ] JS 5
+
 ## HTML
 - Hypertext Markup Language
 - Minimal HTML Structure
