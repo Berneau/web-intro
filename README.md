@@ -11,7 +11,7 @@
 - [x] Html 2
 - [x] Html 3
 - [x] Html 4
-- [ ] Html 5
+- [x] Html 5
 - [ ] CSS 1
 - [ ] CSS 2
 - [ ] CSS 3
