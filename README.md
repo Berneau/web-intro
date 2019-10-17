@@ -9,8 +9,8 @@
 ## Aufgaben
 - [x] Html 1
 - [x] Html 2
-- [ ] Html 3
-- [ ] Html 4
+- [x] Html 3
+- [x] Html 4
 - [ ] Html 5
 - [ ] CSS 1
 - [ ] CSS 2
