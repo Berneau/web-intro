@@ -28,4 +28,39 @@ td, th {
   width: 150px;
 }
 
-/* dein code */
+/* mmmmein code */
+span {
+  font-size: 16px
+}
+
+.big {
+  font-size: 20px
+}
+
+#bigger {
+  font-size: 24px
+}
+
+p {
+  color: red
+}
+
+.green {
+  color: green
+}
+
+#blue {
+  color: blue
+}
+
+h3 {
+  text-decoration: underline;
+}
+
+.wrong {
+  text-decoration: line-through;
+}
+
+#correct {
+  text-decoration: none;
+}
