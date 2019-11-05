@@ -1,1 +1,58 @@
 * { margin: 0; padding: 0; }
+
+body {
+  min-height: 100vh;
+  padding: 50px;
+}
+
+h1 {
+  text-transform: uppercase;
+  color: blue;
+}
+
+h2 {
+  text-transform: uppercase;
+  background-color: palevioletred;
+}
+
+h3 {
+  text-transform: uppercase;
+}
+
+h3:hover {
+  color: palevioletred;
+}
+
+p {
+  text-decoration: line-through;
+}
+
+a {
+  text-decoration: none;
+  color: palevioletred;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+div {
+  height: 150px;
+  width: 250px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.first {
+  background-color: palevioletred;
+}
+
+.second {
+  border: 1px solid palevioletred;   /*muss ma des immer so machen?*/
+  border-radius: 4px;
+}
+
+img {
+  width: 250px;
+  border-radius: 50%;
+  opacity: 0.5;
+}
