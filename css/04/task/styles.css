@@ -51,6 +51,14 @@ div {
   border-radius: 4px;
 }
 
+/* das ist die kurze version (shorthand) */
+/* die lange version geht so und macht genau des selbe */
+/*
+  border-width: 1px;
+  border-color: palevioletred;
+  border-style: solid;
+*/
+
 img {
   width: 250px;
   border-radius: 50%;
