@@ -1,3 +1,3 @@
-var="Hallo";
-var="Welt";
+var hallo ="Hallo";
+var welt ="Welt";
 console.log("Hallo"+" "+"Welt");
