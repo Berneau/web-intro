@@ -17,8 +17,8 @@
 - [x] CSS 3
 - [x] CSS 4
 - [ ] CSS 5
-- [ ] JS 1
-- [ ] JS 2
+- [x] JS 1
+- [x] JS 2
 - [ ] JS 3
 - [ ] JS 4
 - [ ] JS 5
